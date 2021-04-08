@@ -34,7 +34,7 @@ sections:
     testimonials:
       - author:
           name: John Dope
-          location: 'Colorado, USA'
+          location: 'Delhi, USA'
         text: >-
           A worth product, long lasting. This is static/fuxed model, covers face
           fully below chin. Care taking - Clean it with soap water, dettol or
