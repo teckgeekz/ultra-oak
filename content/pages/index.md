@@ -24,6 +24,7 @@ sections:
     featured_products:
       - content/pages/products/faceshields1.md
       - content/pages/products/faceshield2.md
+      - content/pages/products/faceshield4.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
