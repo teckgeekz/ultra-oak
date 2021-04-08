@@ -47,8 +47,10 @@ sections:
           name: Hiren
           location: 'Gujrat, IN'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          Comfortable fit, but little bit on the heavy side. The adjustable band
+          lets you adjust the shield according to your face. Almost cover all
+          the face and under the shield one can easily wear spectacles and mask.
+          Overall a reliable product.
   - type: promotion_section
     section_id: promotion_section
     title: Exciting New Designs Coming Soon
