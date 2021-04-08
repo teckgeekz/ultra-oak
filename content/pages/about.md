@@ -39,7 +39,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Exciting New Designs Coming Soon
-    subtitle: from $149.99
+    subtitle: Contact us For Bulk Pricing
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
