@@ -1,6 +1,6 @@
 ---
 id: '4'
-title: lorem-ipsum
+title: Faceshield
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
