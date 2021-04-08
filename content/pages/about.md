@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: images/leaf.svg
-    headline: We Are Faceshield Manufactuerer
+    headline: We Are Faceshield Manufacturer
     subtitle: >
       We Believe in Make in India hence our product is Manufactured in India
       From scratch. There are other products in the Market too, However most or
