@@ -33,7 +33,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: Girish
           location: 'Delhi, IN'
         text: >-
           A worth product, long lasting. This is static/fuxed model, covers face
