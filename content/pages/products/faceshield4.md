@@ -1,6 +1,6 @@
 ---
 id: '3'
-title: lorem-ipsum
+title: Faceshield Packe of 4
 description: >-
   When it comes to personal protective equipment, face masks are a given—but if
   you want even more protection, you may want to add a face shield to your
