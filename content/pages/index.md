@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/Face Shield header.jpg
     background_image_opacity: 65
-    content: >
+    content: |
       # Shop Face Shield- A complete Protective Gear
 
-
-      Get complete protection with our unique design for Face Mask and
-      Protection
+      Get complete protection with our unique design of Face Mask and Protection
     actions:
       - title: See all items
         url: /store
