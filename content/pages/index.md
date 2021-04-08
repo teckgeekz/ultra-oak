@@ -36,9 +36,13 @@ sections:
           name: John Dope
           location: 'Colorado, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          A worth product, long lasting. This is static/fuxed model, covers face
+          fully below chin. Care taking - Clean it with soap water, dettol or
+          Savlon mixed water,any good shampoo water.Cleaning with sanitizerz:
+          the alchol content will make it's upper layer whitish which make it
+          opake after some more cleanings with sanitizers.Cleaning with acetone
+          or carbon tetrachloride is also not advisable as they react with
+          polycarbonate.
       - author:
           name: Major Payne
           location: 'VA, USA'
