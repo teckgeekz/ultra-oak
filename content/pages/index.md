@@ -44,7 +44,7 @@ sections:
           or carbon tetrachloride is also not advisable as they react with
           polycarbonate.
       - author:
-          name: Major Payne
+          name: Hiren
           location: 'VA, USA'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
