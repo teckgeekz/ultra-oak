@@ -14,14 +14,18 @@ sections:
     section_id: faq_section
     questions:
       - question: How long does shipping take?
-        answer: >-
+        answer: >
           Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
+          should *manage customer expectations*. Just like a good checkout flow
+          should. Tell them the truth:
 
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+
+          *   Domestic will take between 3 to 5 business days.
+
+          *   International shipping will take between 5 and 10 business days.
+
+          *   Mars shipping will be automatically redirected to Elon Musk’s
+          Twitter account.
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
