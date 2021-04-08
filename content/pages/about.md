@@ -7,13 +7,13 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We Are Faceshield Manufactuerer
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      We Believe in Make in India hence our product is Manufactured in India
+      From scratch. There are other products in the Market too, However most or
+      all of them are imported from China or Germany. With our product you can
+      be sure that you will get the top quality product at a reasonable price.
+      As we manufacture the product and do not import hence our product is
+      cheaper than other product in the Market without compromising the Quality.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
