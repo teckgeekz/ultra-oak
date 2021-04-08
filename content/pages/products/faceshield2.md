@@ -6,7 +6,7 @@ description: >-
   you want even more protection, you may want to add a face shield to your
   routine, too, especially while traveling.
 price: '1598'
-order: 0
+order: 2
 featured: true
 layout: product
 category: content/pages/category/multi-product.md
