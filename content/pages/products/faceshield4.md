@@ -7,7 +7,7 @@ description: >-
   routine, too, especially while traveling.
 price: '3196'
 order: 3
-featured: false
+featured: true
 layout: product
 category: content/pages/category/multi-product.md
 default_thumbnail_image: images/facesheild.png
