@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "favicon": "images/Face Shield Blue_250x250.png",
     "logo_dark": "images/logo.svg",
-    "logo_light": "images/logo-white.svg",
+    "logo_light": "images/Face Shield White_250x250.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "images/Face Shield header.jpg",
     "bg_image_primary_opacity": 60,
