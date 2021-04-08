@@ -6,6 +6,7 @@ price: '6392'
 order: 4
 featured: false
 layout: product
+default_thumbnail_image: images/facesheild.png
 ---
 ## Lorem ipsum
 
