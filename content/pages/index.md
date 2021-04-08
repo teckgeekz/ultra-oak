@@ -45,7 +45,7 @@ sections:
           polycarbonate.
       - author:
           name: Hiren
-          location: 'VA, USA'
+          location: 'Gujrat, USA'
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
