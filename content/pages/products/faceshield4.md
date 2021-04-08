@@ -8,6 +8,7 @@ featured: false
 layout: product
 category: content/pages/category/multi-product.md
 default_thumbnail_image: images/facesheild.png
+default_original_image: images/facesheild.png
 ---
 ## Lorem ipsum
 
