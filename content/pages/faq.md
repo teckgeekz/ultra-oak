@@ -47,18 +47,7 @@ sections:
           handling process. Or, if you’re using Snipcart, just refer to [our ToS
           and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
-        answer: >-
-          Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-          designer a couple of months ago. <br /><br /> Q: Why did you build a
-          theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
-          opening up the JAMstack to more developers. Plus, we trust these
-          folks. [Read more about Stackbit](http://bit.ly/2YAvGix). <br /><br />
-          Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-          small, bootstrapped team of eight human beings. Michael might be a
-          robot, though. <br /><br /> Q: Why is Snipcart based in Québec City?
-          <br /> A: Have you been here? It’s beaaautiful! <br /><br /> Q: What’s
-          the meaning of life? <br /> A: We’re not quite sure. But building
-          useful products with people we love feels meaningful enough.
+        answer: "Q: Why is this Product better? \r\nA: We hired our first designer a couple of months ago. \r\n\r\nQ: Why is your price lower than other products? \r\nA: As we manufacture the product in India hence our production cost is lower. \r\n\r\nQ: How long you've been in the Market? \r\nA: Not a lot! We’re a small, but we do have the expertise and experience.  \r\n\r\nQ: Where is your manufacturing plant? \r\nA: Our Manufacturing is in India however we cannot disclose the factory Location \r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
