@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/Face Shield header.jpg
+    background_image: images/leaf.svg
     headline: We Are Faceshield Manufactuerer
     subtitle: >
       We Believe in Make in India hence our product is Manufactured in India
