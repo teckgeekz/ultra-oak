@@ -27,7 +27,7 @@ sections:
           too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
           any bugs, open an issue, and we’ll fire our junior dev. Just kidding
           Michael, you’re good.
-        image: images/nan_talk.jpg
+        image: images/ShopFaceshieldhm2.png
       - title: Best Quality
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
