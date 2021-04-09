@@ -15,7 +15,7 @@ sections:
     section_id: promotion_section
     title: Exciting New Designs Coming Soon
     subtitle: Contact us for Bulk Pricing
-    image: images/promo.jpg
+    image: images/ShopFaceshieldhm.png
     background_image: /images/leaf.svg
     cta:
       title: Discover
