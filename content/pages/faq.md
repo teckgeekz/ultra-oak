@@ -49,7 +49,7 @@ sections:
       - question: Rapid-fire questions
         answer: "Q: Why is this Product better? \r\nA: We hired our first designer a couple of months ago. \r\n\r\nQ: Why is your price lower than other products? \r\nA: As we manufacture the product in India hence our production cost is lower. \r\n\r\nQ: How long you've been in the Market? \r\nA: Not a lot! We’re a small, but we do have the expertise and experience.  \r\n\r\nQ: Where is your manufacturing plant? \r\nA: Our Manufacturing is in India however we cannot disclose the factory Location \r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
   - type: contact_section
-    image: images/promo.jpg
+    image: images/ShopFaceshieldhm2.png
     section_id: contact_section
     address: 'New Delhi, India'
     phone: +91-958-555-0112
