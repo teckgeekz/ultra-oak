@@ -57,17 +57,12 @@ sections:
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
   - section_id: lorem-ipsum
     background_image_opacity: 65
-    content: >-
-      ## Lorem ipsum
+    content: |
+      Shop Face Shield- A complete Protective Gear
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Get complete protection with our unique design of Face Mask and Protection
     actions: []
     type: hero_section
     background_image: images/Face Shield header.jpg
