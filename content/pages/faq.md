@@ -55,7 +55,7 @@ sections:
     phone: +91-958-555-0112
     email: sales@shopfacesheild.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
-  - section_id: lorem-ipsum
+  - section_id: Lower_
     background_image_opacity: 65
     content: |
       # Shop Face Shield- A complete Protective Gear
