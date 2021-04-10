@@ -56,7 +56,7 @@ sections:
     email: sales@shopfacesheild.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
   - section_id: lorem-ipsum
-    background_image_opacity: 0
+    background_image_opacity: 65
     content: >-
       ## Lorem ipsum
 
