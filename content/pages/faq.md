@@ -70,5 +70,6 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+    background_image: images/Face Shield header.jpg
 white_header: false
 ---
