@@ -61,7 +61,12 @@ sections:
       # Shop Face Shield- A complete Protective Gear
 
       Get complete protection with our unique design of Face Mask and Protection
-    actions: []
+    actions:
+      - title: lorem-ipsum
+        url: lorem-ipsum
+        style: primary
+        arrow: false
+        type: action
     type: hero_section
     background_image: images/Face Shield header.jpg
 white_header: false
