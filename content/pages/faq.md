@@ -65,7 +65,7 @@ sections:
       - title: See all items
         url: /store
         style: primary
-        arrow: false
+        arrow: true
         type: action
     type: hero_section
     background_image: images/Face Shield header.jpg
