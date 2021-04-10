@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/Face Shield header.jpg
+    background_image: images/leaf.svg
     headline: Behold our FAQ
     subtitle: >-
       All right, friends. Let’s do this. This section will cover basic,
