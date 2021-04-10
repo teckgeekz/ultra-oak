@@ -58,9 +58,7 @@ sections:
   - section_id: lorem-ipsum
     background_image_opacity: 65
     content: |
-      Shop Face Shield- A complete Protective Gear
-
-
+      # Shop Face Shield- A complete Protective Gear
 
       Get complete protection with our unique design of Face Mask and Protection
     actions: []
