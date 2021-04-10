@@ -26,12 +26,10 @@ sections:
           other viral/bacterial infection.
         image: images/ShopFaceshieldhm2.png
       - title: Best Quality
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          We keep an close eye on the quality of our product. You can be sure
+          that you are getting the best product in the market. We use Garde A
+          quality Polycarbonate to manufacture the faceShields.
         image: images/ShopFaceshieldhm3.png
   - type: promotion_section
     section_id: promotion_section
