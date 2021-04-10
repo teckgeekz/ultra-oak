@@ -63,7 +63,7 @@ sections:
       Get complete protection with our unique design of Face Mask and Protection
     actions:
       - title: See all items
-        url: lorem-ipsum
+        url: /store
         style: primary
         arrow: false
         type: action
