@@ -48,20 +48,6 @@ sections:
           and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
         answer: "Q: Why is this Product better? \r\nA: We hired our first designer a couple of months ago. \r\n\r\nQ: Why is your price lower than other products? \r\nA: As we manufacture the product in India hence our production cost is lower. \r\n\r\nQ: How long you've been in the Market? \r\nA: Not a lot! We’re a small, but we do have the expertise and experience.  \r\n\r\nQ: Where is your manufacturing plant? \r\nA: Our Manufacturing is in India however we cannot disclose the factory Location \r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
-  - section_id: lower_head
-    background_image_opacity: 65
-    content: |
-      # Shop Face Shield- A complete Protective Gear
-
-      Get complete protection with our unique design of Face Mask and Protection
-    actions:
-      - title: See all items
-        url: /store
-        style: primary
-        arrow: true
-        type: action
-    type: hero_section
-    background_image: images/Face Shield header.jpg
   - type: contact_section
     image: images/ShopFaceshieldhm2.png
     section_id: contact_section
