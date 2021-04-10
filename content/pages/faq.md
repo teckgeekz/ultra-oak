@@ -55,4 +55,14 @@ sections:
     phone: +91-958-555-0112
     email: sales@shopfacesheild.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: lorem-ipsum
+      style: primary
+      arrow: false
+      type: action
+    type: promotion_section
 ---
