@@ -10,7 +10,7 @@ order: 2
 featured: true
 layout: product
 category: content/pages/category/multi-product.md
-default_thumbnail_image: images/facesheild.png
+default_thumbnail_image: images/Facesheild-blck.jpeg
 default_original_image: images/facesheild.png
 ---
 ## Lorem ipsum
