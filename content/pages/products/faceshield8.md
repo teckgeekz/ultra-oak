@@ -9,7 +9,7 @@ price: '4200'
 order: 4
 featured: false
 layout: product
-default_thumbnail_image: images/facesheild.png
+default_thumbnail_image: images/Facesheild-blck.jpeg
 default_original_image: images/facesheild.png
 category: content/pages/category/multi-product.md
 ---
