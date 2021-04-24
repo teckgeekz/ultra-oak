@@ -1,3 +1,4 @@
+<script async src="https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.js"></script>
 <div hidden id="snipcart" data-api-key="__SNIPCART_API_KEY__">
 
 <billing section="bottom">
