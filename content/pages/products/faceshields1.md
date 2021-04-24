@@ -9,7 +9,7 @@ price: '525'
 order: 1
 featured: true
 layout: product
-default_thumbnail_image: images/facesheild.png
+default_thumbnail_image: images/Facesheild-blck.jpeg
 default_original_image: images/pleasant-sloth.png
 category: content/pages/category/single.md
 ---
