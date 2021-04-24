@@ -5,7 +5,7 @@ description: >-
   When it comes to personal protective equipment, face masks are a given—but if
   you want even more protection, you may want to add a face shield to your
   routine, too, especially while traveling.
-price: '3196'
+price: '2100'
 order: 3
 featured: true
 layout: product
