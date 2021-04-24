@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c79f76da-f95c-4391-a30a-30ef5ad978ad/deploy-status)](https://app.netlify.com/sites/shopfacesheild/deploys)
+
 # ✨ unique-sycamore ✨
 
 This is a [Next.js](https://nextjs.org) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
