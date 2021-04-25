@@ -53,7 +53,7 @@ sections:
           lets you adjust the shield according to your face. Almost cover all
           the face and under the shield one can easily wear spectacles and mask.
           Overall a reliable product.
-  - section_id: lorem-ipsum
+  - section_id: SHOPFB35
     title: lorem-ipsum
     subtitle: lorem-ipsum
     cta:
