@@ -55,7 +55,7 @@ sections:
           Overall a reliable product.
   - section_id: SHOPFB35
     title: 35% off An All Cart Items
-    subtitle: lorem-ipsum
+    subtitle: 'APPLY PROMOCODE '
     cta:
       title: lorem-ipsum
       url: lorem-ipsum
