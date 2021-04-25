@@ -59,7 +59,7 @@ sections:
     cta:
       title: lorem-ipsum
       url: lorem-ipsum
-      style: primary
+      style: secondary
       arrow: false
       type: action
     type: promotion_section
