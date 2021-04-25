@@ -63,6 +63,7 @@ sections:
       arrow: true
       type: action
     type: promotion_section
+    image: images/ShopFaceshieldhm2.png
   - type: promotion_section
     section_id: promotion_section
     title: Exciting New Designs Coming Soon
