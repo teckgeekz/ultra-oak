@@ -30,6 +30,18 @@ sections:
     section_id: featured_categories_section
     featured_categories:
       - content/pages/category/multi-product.md
+  - section_id: SHOPFB35
+    title: 35% off An All Cart Items
+    subtitle: APPLY PROMOCODE SHOPFB35
+    cta:
+      title: Vist Store
+      url: 'https://shopfacesheild.com/store/'
+      style: primary
+      arrow: true
+      type: action
+    type: promotion_section
+    image: images/ShopFaceshieldhm2.png
+    background_image: images/leaf.svg
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -53,18 +65,6 @@ sections:
           lets you adjust the shield according to your face. Almost cover all
           the face and under the shield one can easily wear spectacles and mask.
           Overall a reliable product.
-  - section_id: SHOPFB35
-    title: 35% off An All Cart Items
-    subtitle: APPLY PROMOCODE SHOPFB35
-    cta:
-      title: Vist Store
-      url: 'https://shopfacesheild.com/store/'
-      style: primary
-      arrow: true
-      type: action
-    type: promotion_section
-    image: images/ShopFaceshieldhm2.png
-    background_image: images/leaf.svg
   - type: promotion_section
     section_id: promotion_section
     title: Exciting New Designs Coming Soon
