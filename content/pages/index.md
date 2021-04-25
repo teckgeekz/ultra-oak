@@ -60,7 +60,7 @@ sections:
       title: Vist Store
       url: 'https://shopfacesheild.com/store/'
       style: primary
-      arrow: false
+      arrow: true
       type: action
     type: promotion_section
   - type: promotion_section
