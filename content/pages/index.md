@@ -57,7 +57,7 @@ sections:
     title: 35% off An All Cart Items
     subtitle: APPLY PROMOCODE SHOPFB35
     cta:
-      title: lorem-ipsum
+      title: Vist Store
       url: lorem-ipsum
       style: primary
       arrow: false
