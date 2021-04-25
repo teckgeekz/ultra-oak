@@ -54,7 +54,7 @@ sections:
           the face and under the shield one can easily wear spectacles and mask.
           Overall a reliable product.
   - section_id: SHOPFB35
-    title: lorem-ipsum
+    title: 35% off
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
