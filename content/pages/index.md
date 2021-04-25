@@ -64,6 +64,7 @@ sections:
       type: action
     type: promotion_section
     image: images/ShopFaceshieldhm2.png
+    background_image: images/leaf-light-grey.svg
   - type: promotion_section
     section_id: promotion_section
     title: Exciting New Designs Coming Soon
