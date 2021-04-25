@@ -31,7 +31,7 @@ sections:
     featured_categories:
       - content/pages/category/multi-product.md
   - section_id: SHOPFB35
-    title: SHOPFB35 - 35% off An All Cart Items
+    title: SHOPFB35 - 35% off On All Cart Items
     subtitle: APPLY PROMOCODE SHOPFB35
     cta:
       title: Vist Store
