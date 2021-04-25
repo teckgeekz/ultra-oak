@@ -58,7 +58,7 @@ sections:
     subtitle: APPLY PROMOCODE SHOPFB35
     cta:
       title: Vist Store
-      url: lorem-ipsum
+      url: 'https://shopfacesheild.com/store/'
       style: primary
       arrow: false
       type: action
