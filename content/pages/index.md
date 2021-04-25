@@ -54,7 +54,7 @@ sections:
           the face and under the shield one can easily wear spectacles and mask.
           Overall a reliable product.
   - section_id: SHOPFB35
-    title: 35% off on all Aart items
+    title: 35% off on all Aart Items
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
