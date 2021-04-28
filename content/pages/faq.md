@@ -52,7 +52,7 @@ sections:
     image: images/ShopFaceshieldhm2.png
     section_id: contact_section
     address: 'New Delhi, India'
-    phone: +91-958-555-0112
+    phone: +91-958-249-0332
     email: sales@shopfacesheild.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 white_header: false
