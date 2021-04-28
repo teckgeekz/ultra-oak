@@ -54,6 +54,7 @@ sections:
     address: 'New Delhi, India'
     phone: +91-958-249-0332
     email: sales@shopfacesheild.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: >-
+      https://www.google.com/maps/search/SHOP+IN+T-2919+G%2FF+G.+NO+21+BALJEET+NAGAR+DELHI+New+Delhi+DL+110008+IN/@28.6572462,77.1581544,15z?hl=en-GB
 white_header: false
 ---
