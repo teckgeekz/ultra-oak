@@ -26,10 +26,6 @@ sections:
       - content/pages/products/faceshield2.md
       - content/pages/products/faceshield4.md
       - content/pages/products/faceshield8.md
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - content/pages/category/multi-product.md
   - section_id: SHOPFB35
     title: SHOPFB35 - 35% off On All Cart Items
     subtitle: APPLY PROMOCODE SHOPFB35
@@ -42,6 +38,10 @@ sections:
     type: promotion_section
     image: images/ShopFaceshieldhm2.png
     background_image: images/leaf.svg
+  - type: featured_categories_section
+    section_id: featured_categories_section
+    featured_categories:
+      - content/pages/category/multi-product.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
