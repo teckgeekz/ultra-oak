@@ -16,6 +16,24 @@ export default class Header extends React.Component {
         return (
             <React.Fragment>
                 <header className="header">
+            
+            
+            <script dangerouslySetInnerHTML={{ __html: `!function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1188748351555027');
+      fbq('track', 'PageView');` }}
+    />
+    <noscript dangerouslySetInnerHTML={{ __html: `<img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=1188748351555027&ev=PageView&noscript=1" />` }}
+    />
+            
+            
                     <nav className={classNames('nav', {'nav--light': is_white_header, 'nav--dark': is_white_header !== true})}>
                         <div className="nav__logo"{...((is_logo_light && _.get(site, 'data.config.logo_light', null)) ? ({"data-original": withPrefix(_.get(site, 'data.config.logo_light', null))}) : null)}{...(_.get(site, 'data.config.logo_dark', null) ? ({"data-dark": withPrefix(_.get(site, 'data.config.logo_dark', null))}) : null)}>
                             <Link href={withPrefix('/')}>
