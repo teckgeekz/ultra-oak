@@ -27,7 +27,7 @@ export default class Header extends React.Component {
       s.parentNode.insertBefore(t,s)}(window, document,'script',
       'https://connect.facebook.net/en_US/fbevents.js');
       fbq('init', '1188748351555027');
-      fbq('track', 'AddToCart');
+      fbq('track', 'AddToCart', {content_ids: '1619310717pages_commerce_sell6084b87d9e7080803316681'});
       fbq('track', 'InitiateCheckout');
       fbq('track', 'AddPaymentInfo');
       fbq('track', 'Purchase');
