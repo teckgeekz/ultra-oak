@@ -27,6 +27,10 @@ export default class Header extends React.Component {
       s.parentNode.insertBefore(t,s)}(window, document,'script',
       'https://connect.facebook.net/en_US/fbevents.js');
       fbq('init', '1188748351555027');
+      fbq('track', 'AddToCart');
+      fbq('track', 'InitiateCheckout');
+      fbq('track', 'AddPaymentInfo');
+      fbq('track', 'Purchase');
       fbq('track', 'PageView');` }}
     />
     <noscript dangerouslySetInnerHTML={{ __html: `<img height="1" width="1" style="display:none"
