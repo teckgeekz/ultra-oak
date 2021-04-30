@@ -1,7 +1,7 @@
 {
-  "name": "planty",
-  "description": "Planty",
-  "version": "0.0.1",
+  "name": "Shopfacesheild",
+  "description": "Shop Face Sheild",
+  "version": "0.1",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
