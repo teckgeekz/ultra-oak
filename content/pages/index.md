@@ -28,7 +28,7 @@ sections:
       - content/pages/products/faceshield8.md
   - section_id: SHOPFB35
     title: FACEFB - 10% off On All Cart Items
-    subtitle: APPLY PROMOCODE SHOPFB35
+    subtitle: APPLY PROMOCODE FACEFB
     cta:
       title: Vist Store
       url: 'https://shopfacesheild.com/store/'
