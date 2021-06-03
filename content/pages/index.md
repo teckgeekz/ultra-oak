@@ -25,7 +25,6 @@ sections:
       - content/pages/products/faceshields1.md
       - content/pages/products/faceshield2.md
       - content/pages/products/faceshield4.md
-      - content/pages/products/faceshield8.md
       - content/pages/products/facemask.md
   - section_id: SHOPFB35
     title: FACEFB - 10% off On All Cart Items
