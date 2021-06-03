@@ -2,7 +2,7 @@
 id: '0002'
 title: Face Mask
 description: lorem-ipsum
-price: lorem-ipsum
+price: '499'
 order: 0
 featured: false
 layout: product
