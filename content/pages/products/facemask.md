@@ -1,6 +1,6 @@
 ---
 id: '0002'
-title: lorem-ipsum
+title: Face Mask
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
