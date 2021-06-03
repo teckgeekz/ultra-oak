@@ -10,6 +10,7 @@ featured: false
 layout: product
 category: content/pages/category/single.md
 default_thumbnail_image: images/Poly Face Mask2.jpg
+default_original_image: images/robust-steel.jpg
 ---
 ## Lorem ipsum
 
