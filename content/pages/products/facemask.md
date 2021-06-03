@@ -6,6 +6,7 @@ price: lorem-ipsum
 order: 0
 featured: false
 layout: product
+category: content/pages/category/single.md
 ---
 ## Lorem ipsum
 
