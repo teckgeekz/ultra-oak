@@ -1,7 +1,7 @@
 ---
 id: '0002'
 title: Face Mask
-description: lorem-ipsum
+description: Polycarbonate Face Mask
 price: '499'
 order: 0
 featured: false
