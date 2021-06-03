@@ -1,5 +1,5 @@
 ---
-id: '002'
+id: '0002'
 title: lorem-ipsum
 description: lorem-ipsum
 price: lorem-ipsum
