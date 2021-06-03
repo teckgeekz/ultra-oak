@@ -1,7 +1,7 @@
 ---
 id: '0002'
 title: Face Mask
-description: Polycarbonate Face Mask
+description: Polycarbonate Face Mask. Reusable and washable face mask
 price: '499'
 order: 0
 featured: false
