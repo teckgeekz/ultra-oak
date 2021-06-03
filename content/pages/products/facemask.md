@@ -6,7 +6,7 @@ description: >-
   protection without compromising on Safety.
 price: '499'
 order: 2
-featured: false
+featured: true
 layout: product
 category: content/pages/category/single.md
 default_thumbnail_image: images/Poly Face Mask2.jpg
