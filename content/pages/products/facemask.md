@@ -9,6 +9,7 @@ order: 2
 featured: false
 layout: product
 category: content/pages/category/single.md
+default_thumbnail_image: images/Poly Face Mask2.jpg
 ---
 ## Lorem ipsum
 
