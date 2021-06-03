@@ -1,7 +1,9 @@
 ---
 id: '0002'
 title: Face Mask
-description: Polycarbonate Face Mask. Reusable and washable face mask
+description: >-
+  Polycarbonate Face Mask. Reusable and washable face mask. Get complete
+  protection without compromising on Safety.
 price: '499'
 order: 0
 featured: false
