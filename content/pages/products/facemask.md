@@ -12,9 +12,4 @@ category: content/pages/category/single.md
 default_thumbnail_image: images/Poly Face Mask2.jpg
 default_original_image: images/robust-steel.jpg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Polycarbonate Face Mask. Reusable and washable face mask. Get complete protection without compromising on Safety.
