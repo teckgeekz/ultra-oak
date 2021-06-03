@@ -5,7 +5,7 @@ description: >-
   Polycarbonate Face Mask. Reusable and washable face mask. Get complete
   protection without compromising on Safety.
 price: '499'
-order: 0
+order: 2
 featured: false
 layout: product
 category: content/pages/category/single.md
